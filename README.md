@@ -1,4 +1,7 @@
-# IoT and the Smart City 
+# Please note
+We have removed the IoT and the Smart City lab documents due to technical issues.  Please look for an update in the upcoming months.
+
+# IoT and the Smart City
 
 Fabrikam City council has conducted a six-month study of new and emerging technologies that can improve the lives of its citizens. Being the largest city in the US, the challenges most cities face are compounded by scale. Many of these challenges revolve around city traffic and public transportation.
 
