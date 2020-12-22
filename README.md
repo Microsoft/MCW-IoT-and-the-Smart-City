@@ -1,4 +1,4 @@
-# Please note
+# Important - Please Note
 We have removed the IoT and the Smart City lab documents due to technical issues.  Please look for an update in the upcoming months.
 
 # IoT and the Smart City
