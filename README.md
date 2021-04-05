@@ -46,7 +46,7 @@ We have removed the IoT and the Smart City lab documents due to technical issues
 Internet of Things
 
 ## Related references
-- [MCW](https://github.com/Microsoft/MCW)
+- [MCW](https://microsoftcloudworkshop.com)
 
 ## Help & Support
 
