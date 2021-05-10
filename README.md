@@ -1,5 +1,4 @@
-# Important - Please Note
-The IoT and the Smart City lab documents have been removed due to technical issues.  The IoT team is currently working on an Azure Digital Twins workshop, to be published May 2021, as a replacement.
+## This workshop is archived and is no longer being maintained. Content is read-only.
 
 # IoT and the Smart City
 
