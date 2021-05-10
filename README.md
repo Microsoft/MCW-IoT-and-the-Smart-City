@@ -1,6 +1,6 @@
-## This workshop is archived and is no longer being maintained. Content is read-only.
-
 # IoT and the Smart City
+
+## This workshop is archived and is no longer being maintained. Content is read-only.
 
 Fabrikam City council has conducted a six-month study of new and emerging technologies that can improve the lives of its citizens. Being the largest city in the US, the challenges most cities face are compounded by scale. Many of these challenges revolve around city traffic and public transportation.
 
